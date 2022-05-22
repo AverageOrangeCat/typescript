@@ -1,0 +1,24 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Simple typescript template",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuengNoelTBZ/typescript.git"
+  },
+  "author": "Noel Kueng",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/KuengNoelTBZ/typescript/issues"
+  },
+  "homepage": "https://github.com/KuengNoelTBZ/typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
